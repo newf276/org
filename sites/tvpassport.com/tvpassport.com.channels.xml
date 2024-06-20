@@ -31,6 +31,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hallmark-movies--mysteries--eastern/4453">Hallmark Movies &amp; Mysteries - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hgtv-canada-hd/8793">HGTV Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="hgtv-usa--eastern-feed/623">HGTV USA - Eastern Feed</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="history-channel-us-hd--east/4660">History Channel US HD - East</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-canada-hd/4162">National Geographic Canada HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-us--eastern/657">National Geographic US - Eastern</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="national-geographic-wild-canada-hd/11012">National Geographic Wild Canada HD</channel>
@@ -69,6 +70,7 @@
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="discovery-channel-can-hd/8451">Discovery Channel (CAN) HD</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="discovery-channel-us--eastern-feed/649">Discovery Channel (US) - Eastern Feed</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryFamily.us" site_id="discovery-family-channel-hd/8518">Discovery Family Channel HD</channel>
+  <channel site="tvpassport.com" lang="en" xmltv_id="" site_id="discovery-life-channel/1273">Discovery Life Channel</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="DiscoveryScience.ca" site_id="discovery-science-canada/1188">Discovery Science Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoodNetwork.ca" site_id="food-network-canada/169">Food Network Canada</channel>
   <channel site="tvpassport.com" lang="en" xmltv_id="FoxBusinessNetwork.us" site_id="fox-business/4656">Fox Business</channel>
