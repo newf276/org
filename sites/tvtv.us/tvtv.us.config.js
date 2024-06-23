@@ -5,7 +5,7 @@ dayjs.extend(utc)
 
 module.exports = {
   site: 'tvtv.us',
-  delay: 1500, // 1500 ms (otherwise the server returns error 429: https://github.com/iptv-org/epg/issues/2176)
+  delay: 35000, // 1500 ms (otherwise the server returns error 429: https://github.com/iptv-org/epg/issues/2176)
   days: 2,
   url: function ({ date, channel }) {
     return `https://www.tvtv.us/api/v1/lineup/USA-NY71652-X/grid/${date.toJSON()}/${date

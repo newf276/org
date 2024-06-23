@@ -1,43 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-
   <channel site="tvtv.us" lang="en" xmltv_id="ABCEast.us" site_id="10003">ABC East</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="ABCNewsLive.us" site_id="113380">ABC News Live</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="ABCSpark.ca" site_id="75031">ABC Spark</channel>
-  
   <channel site="tvtv.us" lang="en" xmltv_id="AnimalPlanetEast.us" site_id="16331">Animal Planet East</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="ArirangWorld.kr" site_id="10575">Arirang World</channel>
-  
   <channel site="tvtv.us" lang="en" xmltv_id="CBSNews.us" site_id="104846">CBS News Live</channel>
- 
   <channel site="tvtv.us" lang="en" xmltv_id="CheddarNews.us" site_id="109333">Cheddar News</channel>
-
   <channel site="tvtv.us" lang="en" xmltv_id="CNBC.us" site_id="10139">CNBC</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="CNBCWorld.us" site_id="26849">CNBC World</channel>
-  
   <channel site="tvtv.us" lang="en" xmltv_id="DWEnglish.de" site_id="43771">DW English OTA</channel>
-  
   <channel site="tvtv.us" lang="en" xmltv_id="EuronewsEnglish.fr" site_id="2121">Euronews English</channel>
-
   <channel site="tvtv.us" lang="en" xmltv_id="HallmarkChannelEast.us" site_id="11221">Hallmark Channel East</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="HallmarkDrama.us" site_id="105723">Hallmark Drama</channel>
-  
   <channel site="tvtv.us" lang="en" xmltv_id="HGTVEast.us" site_id="14902">HGTV East</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="HGTVWest.us" site_id="34215">HGTV West</channel>
-
   <channel site="tvtv.us" lang="en" xmltv_id="HistoryEast.us" site_id="57708">History East</channel>
-
-  <channel site="tvtv.us" lang="en" xmltv_id="HLN.us" site_id="10145">HLN</channel>
-  
-  <channel site="tvtv.us" lang="en" xmltv_id="LiveNOWfromFOX.us" site_id="119219">LiveNow From FOX</channel>
-  
-  <channel site="tvtv.us" lang="en" xmltv_id="NBCNewsNOW.us" site_id="114174">NBC News Now</channel>
-  
+  <channel site="tvtv.us" lang="en" xmltv_id="HLN.us" site_id="10145">HLN</channel> 
+  <channel site="tvtv.us" lang="en" xmltv_id="LiveNOWfromFOX.us" site_id="119219">LiveNow From FOX</channel>  
+  <channel site="tvtv.us" lang="en" xmltv_id="NBCNewsNOW.us" site_id="114174">NBC News Now</channel>  
   <channel site="tvtv.us" lang="en" xmltv_id="NewsmaxTV.us" site_id="58320">Newsmax TV</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="NewsNationEast.us" site_id="91096">NewsNation East</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="NewsNet.us" site_id="92205">Newsnet</channel>
-  <channel site="tvtv.us" lang="en" xmltv_id="Newsy.us" site_id="96827">Newsy</channel>
-  
+  <channel site="tvtv.us" lang="en" xmltv_id="Newsy.us" site_id="96827">Newsy</channel>  
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayClassicRock.ca" site_id="67567">Stingray Classic Rock</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayEasyListening.ca" site_id="67573">Stingray Easy Listening</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayFestival4K.ca" site_id="34379">Stingray Festival 4K</channel>
@@ -47,5 +32,4 @@
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayGreatestHits.ca" site_id="110433">Stingray Greatest Hits</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayHitList.ca" site_id="67555">Stingray Hit List</channel>
   <channel site="tvtv.us" lang="en" xmltv_id="StingrayHotCountry.ca" site_id="67557">Stingray Hot Country</channel>
-  
 </channels>
